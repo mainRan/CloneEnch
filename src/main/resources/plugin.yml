@@ -1,0 +1,8 @@
+name: CloneEnch
+version: '${project.version}'
+main: me.terramain.cloneench.Main
+api-version: 1.20
+authors: [TerraMain]
+commands:
+  cloneitem:
+    description: plugin for clone items and your enchants.
